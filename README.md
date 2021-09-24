@@ -1,2 +1,2 @@
 # JesseLW19.github.io
-#I mean I wouldnt copy this if I was you but ok
+Redirect your path so it doesnt conflict with the static webpage plz
